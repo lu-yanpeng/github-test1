@@ -1,4 +1,4 @@
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse('Ê×Ò³')
+    return HttpResponse('é¦–é¡µ')
